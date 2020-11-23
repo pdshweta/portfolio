@@ -100,3 +100,26 @@ p {
 .link:hover{
     background-color: dodgerblue;
 }
+
+a{
+    text-decoration: none;
+}
+.article:hover
+{
+    color: fuchsia;
+}
+
+#videos
+{
+    text-align: center;
+}
+#works
+{
+    text-align: center;
+}
+#writings
+{
+    text-align: center;
+}
+
+
